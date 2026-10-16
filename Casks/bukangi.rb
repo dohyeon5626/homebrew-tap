@@ -1,6 +1,6 @@
 cask "bukangi" do
-  version "1.0.0"
-  sha256 "1074fdc63fea670dcd831bbb7c7803556a557e0cfe5c8c79e2a8cbad11c76df2"
+  version "1.0.1"
+  sha256 "0d5e05a977fe37340747a63e4f52dec783dbef5b15ebbdf52a4f71264ceb37e9"
 
   url "https://github.com/dohyeon5626/desktop-bukangi/releases/download/v#{version}/Bukangi-#{version}.zip"
   name "Bukangi"
